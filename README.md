@@ -8,6 +8,8 @@
 |Want-Back|여행 계획을 쉽게 세울 수 있게 도와주는 여행 일정 관리 서비스 Want 백엔드|2024.07.19 - 2024.09.08|[Want-Back](https://github.com/keemzleun/Want-Back)|
 |Kick-Maker|승률과 위치 기반 축구 경기 매칭 서비스 Kick-Maker|2023.03.01 - 2023.09.14|[Kick-Maker](https://github.com/keemzleun/Kick-Maker)|
 
+## Etc
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyong012)](https://solved.ac/jiyong012/)
 
 
 <a href="https://github.com/devxb/gitanimals">
