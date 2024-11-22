@@ -10,12 +10,11 @@
 
 ## Etc
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyong012)](https://solved.ac/jiyong012/)
-
-
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/keemzleun"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/keemzleun?pet-id=603474888179016065"
+    width="300"
+    height="120"
+  />
 </a>
+  
