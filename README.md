@@ -13,7 +13,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/keemzleun?pet-id=603474888179016065"
-    width="600"
+    width="300"
     height="170"
   />
 </a>
