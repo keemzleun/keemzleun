@@ -10,7 +10,7 @@
 
 ## Etc
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyong012)](https://solved.ac/jiyong012/)
-<img src="http://mazandi.herokuapp.com/api?handle=jiyong012&theme=warm"/>
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/keemzleun?pet-id=603474888179016065"
